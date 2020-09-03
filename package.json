@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "start": "electron .",
-    "build": "electron-packager . timruler --out=dist --platform=darwin --arch=x64 --overwrite"
+    "build": "electron-packager . screen-ruler --out=dist --platform=darwin --arch=x64 --overwrite"
   },
   "keywords": [],
   "author": "",
